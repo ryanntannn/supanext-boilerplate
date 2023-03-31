@@ -1,6 +1,8 @@
 # Supanext Boilerplate
 
-Supanext boilerplate is a boilerplate repo designed to get auth based web apps up quickly and easily.
+Supanext boilerplate is a boilerplate designed to get auth based web apps up quickly.
+
+<img width="861" alt="image" src="https://user-images.githubusercontent.com/13270108/229029883-d66573ef-ff8b-4112-a780-2d0ae23eefd6.png">
 
 ## Tech Stack
 
