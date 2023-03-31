@@ -1,0 +1,5 @@
+yarn run v1.22.19
+$ next lint
+info  - Loaded env from /Users/ryan/Development/supanext-boilerplate/.env
+✔ No ESLint warnings or errors
+Done in 1.17s.
